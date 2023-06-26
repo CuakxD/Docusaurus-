@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Tutorial Intro frances
 
-Let's discover **Docusaurus in less than 5 minutes**. english
+This is fransua :D Let's discover **Docusaurus in less than 5 minutes**.
 
 ## Getting Started
 
